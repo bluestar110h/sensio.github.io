@@ -1,92 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://sensio.ir/</loc>
-  <lastmod>2026-05-17T00:27:11+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://sensio.ir/index.html</loc>
-  <lastmod>2026-05-17T00:27:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sensio.ir/about.html</loc>
-  <lastmod>2026-05-17T00:27:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sensio.ir/services.html</loc>
-  <lastmod>2026-05-17T00:27:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sensio.ir/image-gallery.html</loc>
-  <lastmod>2026-05-17T00:27:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sensio.ir/faqs.html</loc>
-  <lastmod>2026-05-17T00:27:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sensio.ir/contact.html</loc>
-  <lastmod>2026-05-17T00:27:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sensio.ir/indexen.html</loc>
-  <lastmod>2026-05-17T00:27:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sensio.ir/book-appointment.html</loc>
-  <lastmod>2026-05-17T00:27:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sensio.ir/about-en.html</loc>
-  <lastmod>2026-05-17T00:27:11+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sensio.ir/services-en.html</loc>
-  <lastmod>2026-05-17T00:27:11+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sensio.ir/testimonial.html</loc>
-  <lastmod>2026-05-17T00:27:11+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sensio.ir/image-gallery-en.html</loc>
-  <lastmod>2026-05-17T00:27:11+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sensio.ir/faqs-en.html</loc>
-  <lastmod>2026-05-17T00:27:11+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sensio.ir/contact-en.html</loc>
-  <lastmod>2026-05-17T00:27:11+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sensio.ir/book-appointment-en.html</loc>
-  <lastmod>2026-05-17T00:27:11+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <!-- صفحات فارسی -->
+    <url>
+        <loc>https://mentiva.ir/</loc>
+        <lastmod>2026-05-17</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://mentiva.ir/about.html</loc>
+        <lastmod>2026-05-17</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://mentiva.ir/services.html</loc>
+        <lastmod>2026-05-17</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://mentiva.ir/image-gallery.html</loc>
+        <lastmod>2026-05-17</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://mentiva.ir/faqs.html</loc>
+        <lastmod>2026-05-17</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://mentiva.ir/contact.html</loc>
+        <lastmod>2026-05-17</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://mentiva.ir/book-appointment.html</loc>
+        <lastmod>2026-05-17</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://mentiva.ir/testimonial.html</loc>
+        <lastmod>2026-05-17</lastmod>
+        <priority>0.64</priority>
+    </url>
+    
+    <!-- صفحات انگلیسی -->
+    <url>
+        <loc>https://mentiva.ir/indexen.html</loc>
+        <lastmod>2026-05-17</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://mentiva.ir/about-en.html</loc>
+        <lastmod>2026-05-17</lastmod>
+        <priority>0.64</priority>
+    </url>
+    <url>
+        <loc>https://mentiva.ir/services-en.html</loc>
+        <lastmod>2026-05-17</lastmod>
+        <priority>0.64</priority>
+    </url>
+    <url>
+        <loc>https://mentiva.ir/image-gallery-en.html</loc>
+        <lastmod>2026-05-17</lastmod>
+        <priority>0.64</priority>
+    </url>
+    <url>
+        <loc>https://mentiva.ir/faqs-en.html</loc>
+        <lastmod>2026-05-17</lastmod>
+        <priority>0.64</priority>
+    </url>
+    <url>
+        <loc>https://mentiva.ir/contact-en.html</loc>
+        <lastmod>2026-05-17</lastmod>
+        <priority>0.64</priority>
+    </url>
+    <url>
+        <loc>https://mentiva.ir/book-appointment-en.html</loc>
+        <lastmod>2026-05-17</lastmod>
+        <priority>0.64</priority>
+    </url>
+    
 </urlset>
